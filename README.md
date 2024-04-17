@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Aryan Student at NITK Surathkal
-- 👀 I’m interested in App Dev
-- 🌱 I’m currently learning DSA and App DEv
+- 👀 I’m interested in Web Dev
+- 🌱 I’m currently learning DSA and Web Dev
 - 📫 How to reach me twitter handle in profile
